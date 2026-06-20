@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Dynamite_Revamp.aternos.me",
+    "port": 43175,
     "version": "1.20.1",
     "try-creative": false
   },
